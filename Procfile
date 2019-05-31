@@ -1,2 +1,2 @@
 web: python reti_api.py
-worker: python reti.py
+work: python reti.py
