@@ -1,0 +1,2 @@
+telepot==12.7
+beautifulsoup4==4.7.1
