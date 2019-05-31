@@ -1,2 +1,2 @@
-worker: python reti.py
-urgentworker:: python reti_api.py
+web: python reti.py
+worker:: python reti_api.py
