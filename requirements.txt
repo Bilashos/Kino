@@ -27,6 +27,7 @@ jedi==0.13.3
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 multidict==4.5.2
+mysql-connector==2.1.6
 mysql-connector-python==8.0.15
 parso==0.3.4
 pickleshare==0.7.5
